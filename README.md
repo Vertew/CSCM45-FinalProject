@@ -1,4 +1,4 @@
-# CSCM45-FinalProject
+# CSCM45 Final Project - ANN and CNN for image classification
 The Python notebook containing the code for this project is currently NOT intended to be run, and as such 
 the data files are not present in this repository. This may change in the future.
 
